@@ -141,7 +141,7 @@ echo "4 a 5 fin for------------------------------------------";
 echo "---- ------------------------------------------ <br/>";
 
 echo "<br/>";
-echo " <br/>";/*
+echo " <br/>";
 //5 les tableaux avec foreach
 $Name = array('ciza' , 'keza','nziza');
 
@@ -217,7 +217,7 @@ FunctionName('yves',7);
 echo "<br/>";
 FunctionName('Tous le monde',9 );
 
-*/
+
 
 ?>
 </body>
