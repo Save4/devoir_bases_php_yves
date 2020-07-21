@@ -21,7 +21,7 @@ echo "---- ------------------------------------------ <br/>";
 
 echo "<br/>";
 echo " <br/>";
-/*Les opérateurs arithmétiques
+//Les opérateurs arithmétiques
 
 $a=3;
 $b=7;
@@ -36,7 +36,7 @@ echo $b % $c."<br/>";
 echo "---- ------------------------------------------ <br/>";
 
 echo "<br/>";
-echo " <br/>";*/
+echo " <br/>";
 
 
 
