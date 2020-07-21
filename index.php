@@ -91,7 +91,7 @@ echo " fin switch ------------------------------------------";
 echo "---- ------------------------------------------ <br/>";
 
 echo "<br/>";
-echo " <br/>";/*
+echo " <br/>";
 
 //4 les boucles
 
@@ -141,7 +141,7 @@ echo "4 a 5 fin for------------------------------------------";
 echo "---- ------------------------------------------ <br/>";
 
 echo "<br/>";
-echo " <br/>";
+echo " <br/>";/*
 //5 les tableaux avec foreach
 $Name = array('ciza' , 'keza','nziza');
 
